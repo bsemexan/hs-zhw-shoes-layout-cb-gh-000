@@ -24,4 +24,24 @@
 
 /* Posititoning Classes */
 
+/* Posititoning Classes */
+.milk_text{
+  padding-top: 5px;
+}
 
+.summer{
+  width: 66%;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.shoe{
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
+
+.shoe-1{
+  float: left;
+  width: 32%;
+}
